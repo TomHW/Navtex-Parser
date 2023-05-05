@@ -1,4 +1,3 @@
-#Quelle: https://github.com/encode/uvicorn/issues/678#issuecomment-1067208966
 [Unit]
 Description=Navtex
 After=network.target
@@ -16,7 +15,7 @@ PrivateTmp=true
 #EnvironmentFile=/srv/Navtex.Msg.com/secrets/env
 
 ExecStart=/usr/local/bin/uvicorn \
-        --host=0.0.0.0
+        --host=0.0.0.0 \
         --port=8000 \
         --no-access-log \
         Navtex.API:app
