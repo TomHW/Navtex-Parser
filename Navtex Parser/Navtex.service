@@ -1,0 +1,28 @@
+#Quelle: https://github.com/encode/uvicorn/issues/678#issuecomment-1067208966
+[Unit]
+Description=Navtex
+After=network.target
+#Requires=postgresql.service
+
+[Service]
+Type=simple
+User=pi
+Group=pi
+DynamicUser=true
+
+WorkingDirectory=/svc/navtex-parser/src
+PrivateTmp=true
+
+#EnvironmentFile=/srv/Navtex.Msg.com/secrets/env
+
+ExecStart=/usr/local/bin/uvicorn \
+        --host=0.0.0.0
+        --port=8000 \
+        --no-access-log \
+        Navtex.API:app
+ExecReload=/bin/kill -HUP ${MAINPID}
+RestartSec=1
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

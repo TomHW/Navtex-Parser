@@ -1,0 +1,3 @@
+/home/sesth/eclipse-workspace/Navtex Parser/testmessages/INTERNAT
+/home/sesth/eclipse-workspace/Navtex Parser/testmessages/NATIONAL
+https://www.dwd.de/DE/fachnutzer/schifffahrt/funkausstrahlung/navtex/518_ros.html
