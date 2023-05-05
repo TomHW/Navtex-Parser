@@ -50,15 +50,15 @@ Visualization in AvNav
 ======================
 Follow the instructions for [chart overlays](https://www.wellenvogel.net/software/avnav/docs/hints/overlays.html?lang=en#h2:Configuration) in AvNav. Use `type` overlay and select an overlay from your created geojson files. Add the 'featureFormatter` genericHtmlInfo.
 
-![Overlay configuration](images/Edit Overlay AVNav-Web.png)
+![Overlay configuration](./images/Edit Overlay AVNav-Web.png)
 
 Now your map should show the positions of messages:
 
-![Map with overlays](images/Chart with Overlay AVNav-Web.png)
+![Map with overlays](./images/Chart with Overlay AVNav-Web.png)
 
 Click on a point or in an area to see details:
 
-![Message details](images/Overlay Info AVNav-Web.png)
+![Message details](./images/Overlay Info AVNav-Web.png)
 
 Some Notes
 ==========
