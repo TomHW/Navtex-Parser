@@ -54,11 +54,11 @@ Follow the instructions for [chart overlays](https://www.wellenvogel.net/softwar
 
 Now your map should show the positions of messages:
 
-![Map with overlays](./images/Chart with Overlay AVNav-Web.png)
+![Map with overlays](./images/Chart%20with%20Overlay%20AVNav-Web.png)
 
 Click on a point or in an area to see details:
 
-![Message details](./images/Overlay Info AVNav-Web.png)
+![Message details](./images/Overlay%20Info%20AVNav-Web.png)
 
 Some Notes
 ==========
