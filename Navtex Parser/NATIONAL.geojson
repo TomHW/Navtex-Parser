@@ -1,0 +1,251 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "LA81",
+      "properties": {
+        "call-sign": "LA81",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "81",
+        "msg-date": "2023-04-08T16:30:00+02:00",
+        "message": "ZCZC LA81\nNCC-HAMBURG\n081430 UTC APR 23\nNAUT. WARN. NR. 151\nSUEDLICHE OSTSEE. ARKONA BECKEN.\nMUNITIONSFUND AUF POSITION\n54-52,56N 014-00,48E.\nSCHIFFFAHRT WIRD AUFGEFORDERT, SICH VON DIESER POSITION FREIZUHALTEN.\n\n\nANKERN UND FISCHEN VERBOTEN.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008,
+          54.876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA93",
+      "properties": {
+        "call-sign": "LA93",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "93",
+        "msg-date": "2023-04-27T12:20:00+02:00",
+        "message": "ZCZC LA93\nNCC-HAMBURG\n271020 UTC APR 23\nNAUT. WARN. NR. 163\nWESTEREMS-ANSTEUERUNG.\n3)37:#559,,3 'WESTEREMS'  53-37N  006-18E AIS-TRANSPONDER AUSGEFALLEN.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.3,
+          53.61666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA67",
+      "properties": {
+        "call-sign": "LA67",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "67",
+        "msg-date": "2023-03-29T07:45:00+02:00",
+        "message": "ZCZC LA67\nNCC-HAMBURG\n290545 UTC MAR 23\nNAUT. WARN. NR. 139\nOSTFRIESCSC_E INSELN.JUIST.\nLEUCHTTONNE 'SCHLUCHTER' AUF 53-44N  007-02E VERSCHWUNDEN.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.033333333333333,
+          53.733333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA83",
+      "properties": {
+        "call-sign": "LA83",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "83",
+        "msg-date": "2023-04-12T07:00:00+02:00",
+        "message": "ZCZC LA83\nNCC-HAMBURG\n120500 UTC APR 23\n,-75. WARN. NR. 153\nDOGGERBANK.\nMESSGERAETE AUSGELEGT AUF\n55-28,5N 004-10,2E SOWIE\n55-39,0N 003-51,8E.\nJE MIT EINER GELBEN SPIERENTONNE,\nLIEGENDEM GELBEN KGEUZ ALS TOPPZEICHEN GEKENNZEICHET,\nAUSREICHEND ABSTAND ERFORDE4)8:#.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            4.17,
+            55.475
+          ],
+          [
+            3.8633333333333333,
+            55.65
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA78",
+      "properties": {
+        "call-sign": "LA78",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "78",
+        "msg-date": "2023-04-05T13:00:00+02:00",
+        "message": "ZCZC LA78\nNCC-HAMBURG\n051100 UTC APR 23\nNAUT. WARN. NR. 148\nOSTSEE.  SUED-OESTLICH WINDPARK 'BALTIC EAGLE'\nMESSGERAETE AUSGELEGT AUF\n54-44,2N 014-02,9E SOWIE\n54-50,6N 014-01,3E\nJEDE POSITION IST MIT EINER GELBEN SPIERENTONNE UND\nGELBEM KREUZ ALS TOPPZEICHEN GEKENNZEICHNET.\nKENNUNG BLZ.(5) GELB 20 SEK.\nAUSREICHEND ABSTAND ERFORDERLICH\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            14.048333333333334,
+            54.736666666666665
+          ],
+          [
+            14.021666666666667,
+            54.843333333333334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA75",
+      "properties": {
+        "call-sign": "LA75",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "75",
+        "msg-date": "2023-04-05T10:00:00+02:00",
+        "message": "ZCZC LA75\nNCC-HAMBURG\n050800 UTC APR 23\nNAUT. WARN. NR. 145\nDEUTSCHE BUCHT. NOERDLICH OFFSHORE WINDPARK _SDEUTSCHE BUCHT '.\nGELBE 'ODAS'-SPIERENTONNE, MIT ECNEM GELBEN KREUZ ALS TOPPZEICHEN\nAUSGELEGT AUF 54-30,2N 005-47,5E.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.791666666666667,
+          54.50333333333333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA94",
+      "properties": {
+        "call-sign": "LA94",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "94",
+        "msg-date": "2023-04-27T17:15:00+02:00",
+        "message": "XZCZC LA94\nNCC-HAMBURG\n271515 UTC APR 23\nNAUT. WARN. NR. 164\nSUEDLICHE OSTSEE. OESTLICH RUEGEN.\nMEHRERE MUNITIONSFUNDE IM BEREICH UM POSITION\n54-29,1N 013-50,8E.\nSCHIFFFAHRT WIRD AUFGEFORDERT, SICH VON DIESER POSITION FREIZUHALTEN.\n\n\nANKERN UND FISCHEN VERBOTEN.\nNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.846666666666666,
+          54.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA98",
+      "properties": {
+        "call-sign": "LA98",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "98",
+        "msg-date": "2023-04-28T20:30:00+02:00",
+        "message": "ZCZC LA98\nNCC-HAMBURG\n281830 UTC APR 23\nNAUT. WARN. NR. 167\nDEUTSCHE BUCHT. NOERDLICH OFFSHORE WINDPARK 'DEUT':#3 ?7:#5\nGELBE WELLENMESSBOJE\nTREIBEND GEMELDET AUF UNGEFAEHR\n54-31,89N 005-44,78E.\nGEMELDET UM 17.32 UTC.\nNACHRICHT WIRD AUFGEHOBEN 290630 UTC APR 23.\nNAUT. WARN. NR. 166 AUFGEHOBEN.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746333333333333,
+          54.5315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA99",
+      "properties": {
+        "call-sign": "LA99",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "99",
+        "msg-date": "2023-04-29T08:30:00+02:00",
+        "message": "ZCZC LA99\nNCC-HAMBURG\n290630 UTC APR 23\nNAUT. WARN. NR. 168\nDEUTSCHE BUCHT. NOERDLICH OFFSHORE WINDPARK 'DEUTSCHE BUCHT'.\nGELBE WELLENMESSBOJE\nTREIBEND GEMEHDET AUF UNGEFAEHR\n54-28,57N 005-41,42E.\nGEMELDET UM 05.06 UTC.\nNACHRICHT WIRD AUFGEHOBEN 291830 UTC APR 23.\nNAUT. WARN. NR. 167 AUFGEHOBEN.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.690333333333333,
+          54.476166666666664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA82",
+      "properties": {
+        "call-sign": "LA82",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "82",
+        "msg-date": "2023-04-10T21:00:00+02:00",
+        "message": "ZCZC LA82\nNCC-HAMBURG\n101900 UTC APR 23\nNAUT. WARN. NR. 152\nWEISSE BAMK.\nGROSSTONNE 'NSB II'  VERLEGT AUF 55-00N 006-30E.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          55.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA84",
+      "properties": {
+        "call-sign": "LA84",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "84",
+        "msg-date": "2023-04-13T10:50:00+02:00",
+        "message": "ZCZC LA84\nNCC-HAMBURG\n130850 UTC APR 23\nNAUT. WARN. NR. 154\nSUEDLICHE OSTSEE. OESTLICH VON RUEGEN.\nUNTERWASSERARBEITEN DURCH MS 'KAMARA', RZ '9HA4953'\nIM GEBIET Z_ISCHEN\n54-52,9N 014-00,0E UND\n54-17,1N 013-47,4E\nDURCH ARBEITEN EINGESCHRAENKT MANOEVRIERFAEHIG.\nABSTAND VON 500 METERN ERFORDERLICH.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            14.0,
+            54.88166666666667
+          ],
+          [
+            13.79,
+            54.285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "LA92",
+      "properties": {
+        "call-sign": "LA92",
+        "station": "L",
+        "msg-type": "A",
+        "msg-no": "92",
+        "msg-date": "2023-04-23T20:30:00+02:00",
+        "message": "ZCZC LA92\nNCC-HAMBURG\n231830 UTC APR 23\nNAUT. WARN. NR. 162\nWESTLICHE OSTSEE. DARSS.\nLEUCHTTURM 'DARSSER ORT'  54-28N 012-30E  VERLOESCHT.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          54.46666666666667
+        ]
+      }
+    }
+  ]
+}

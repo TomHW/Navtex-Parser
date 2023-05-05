@@ -1,0 +1,808 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "JA73",
+      "properties": {
+        "call-sign": "JA73",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "73",
+        "msg-date": "2023-04-27T17:15:00+02:00",
+        "message": "ZCZC JA73\n271515 UTC APR\nGERMAN NAV WARN 164/23\nSOUTHERN BALTIC. W OF RUEGEN.\nSEVERAL AMMUNITION FOUND IN AREA ABOUT PSN:\n54-29.1N 013-50.8E.\nSHIPPING IS REQUESTED TO KEEP CLEAR OF THIS PSN\nANCHORING AND FISHING PROHIBITED.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.846666666666666,
+          54.485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA74",
+      "properties": {
+        "call-sign": "JA74",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "74",
+        "msg-date": "2023-04-27T17:43:00+02:00",
+        "message": "ZCZC JA74\n271543 UTC APR\nPOLISH NAV WARN 084/23\nSOUTHERN BALTIC. N OF ROZEWIE.\nPLATFORM 'PETRN GIA_T' IN PSN:\n55-27.9N 018-09.8E\nAREA WITHIN THE RADIUS OF 500 METRES FROM PLATFORMS'\nPSN IS DECLARED AS DANGERO7' !94 '#800ING AND FISHERY\nCAUTION ADVISED\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.163333333333334,
+          55.465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA39",
+      "properties": {
+        "call-sign": "JA39",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "39",
+        "msg-date": "2023-05-06T09:00:00+02:00",
+        "message": "ZCZC JA39\n060700 UTC MAY\nSOUTH-EASTERN BALTIC\nLITHUANIAN NAV WARN 038/22\nSURVEY GAUGES, MARKED BY UNLIT RED AND\nWHITE FLOATS WITH RADAR REFLECTORS,\nHAVE BEEN ESTABLISHED TEMPORARILY IN PSN\n55-57.2N 020-21.5E\n55-58.7N 020-25.1E\n55-56.7N 020-27.2E\n55-58.2N 020-30.6E\n55-54.7N 020-29.8E\n55-56.0N 020-33.5E\n55-52.8N 020-32.4E\n56-00.2N 020-28.0E\nSAFETY ZONES WITH RADIUS OF 0,25 MILE AND\nTRAWLING RESTRICTED ZONES WITH RADIUS OF 1 NM\nESTABLISHED FROM INDICATED PSN\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            20.358333333333334,
+            55.95333333333333
+          ],
+          [
+            20.418333333333333,
+            55.97833333333333
+          ],
+          [
+            20.453333333333333,
+            55.945
+          ],
+          [
+            20.51,
+            55.97
+          ],
+          [
+            20.496666666666666,
+            55.91166666666667
+          ],
+          [
+            20.558333333333334,
+            55.93333333333333
+          ],
+          [
+            20.54,
+            55.88
+          ],
+          [
+            20.466666666666665,
+            56.00333333333333
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA55",
+      "properties": {
+        "call-sign": "JA55",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "55",
+        "msg-date": "2023-04-20T12:25:00+02:00",
+        "message": "ZCZC JA55\n201025 UTC APR\nKALININGRAD NAV WARN 203/23\nSOUTHEASTERN BALTIC\n1. SHIPS EXERCISES 24 THRU 29 APR 0500 TO 2100 UTC\nIN AREA TEMPORARILY DANGEROUS TO SHIPPING BR-161\n55-09.5N 019-45.3E 55-09.5N 020-00.0E\n55-02.0N 020-00.0E 55-02.0N 019-39.6E\n2. CANCEL THIS MESSAGE 292200 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.755,
+              55.15833333333333
+            ],
+            [
+              20.0,
+              55.15833333333333
+            ],
+            [
+              20.0,
+              55.03333333333333
+            ],
+            [
+              19.66,
+              55.03333333333333
+            ],
+            [
+              19.755,
+              55.15833333333333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA93",
+      "properties": {
+        "call-sign": "JA93",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "93",
+        "msg-date": "2023-03-10T16:24:00+01:00",
+        "message": "ZCZC JA93\n101524 UTC MAR\nSWEDISH NAV WARN 033/23\nSOUTHERN BALTIC. FAIRWAY TO AHUS.\nLEADING LIGHT 'AHUS OVRE' IS UNLIT.\nPSN: 55-55.7N 014-19.0E.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.316666666666666,
+          55.928333333333335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PA41",
+      "properties": {
+        "call-sign": "PA41",
+        "station": "P",
+        "msg-type": "A",
+        "msg-no": "41",
+        "msg-date": "2023-05-05T18:40:25.567703+02:00",
+        "message": "ZCZC PA41\n\nNETHERLANDS COASTGUARD\n\nNAVIGATIONAL WARNING NR. 41 272310 UTC APR\n\nPLATFORM L8-H  53-34N 004-34E\n\nNAVIGATION LIGHTS AND FOG SIGNAL UNRELIABLE\n\nPLATFORM K12-D 53-25N 003-53E UNLIT\n\nPLATFORM P11-E 52-21N 003-35E NAVAIDS UNRELIABLE\n\nPLATFORM L10-B 53-27N 004-14E UNLIT\n\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            4.566666666666666,
+            53.56666666666667
+          ],
+          [
+            3.8833333333333333,
+            53.416666666666664
+          ],
+          [
+            3.5833333333333335,
+            52.35
+          ],
+          [
+            4.233333333333333,
+            53.45
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA63",
+      "properties": {
+        "call-sign": "JA63",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "63",
+        "msg-date": "2023-04-21T14:00:00+02:00",
+        "message": "ZCZC JA63\n211200 UTC APR\nKAL NAV WARN 213/23\nSOUTH BALTIC\nLESNOY LIGHTHOUSE\n55-01.0N 020-36.8E\nTEMPORARILY\nOPERATES WITH RESERVE LIGHT\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.613333333333333,
+          55.016666666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA60",
+      "properties": {
+        "call-sign": "JA60",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "60",
+        "msg-date": "2023-04-24T20:00:00+02:00",
+        "message": "ZCZC JA60\n241800 UTC APR\nPOLISH NAV WARN 078/23\nSOUTHERN BALTIC. POLISH COAST\nDUE TO MILITARY EXERCISES ZONE IS CLOSED FOR SHIPPING AND FISHERY:\nS-6 CENTERED 54-39.27N 016-36.59E\nON 2023-04-24 FROM 18:00 TO 20:00\nON 2023-04-25 FROM 02:00 TO 23:59\nON 2023-04-26 FROM 03:00 TO 23:59\nON 2023-04-27 FROM 03:00 TO 23:59\nON 2023-04-28 FROM 03:00 TO 23:59TIME IN UTC.\nZONE IS CLOSED\nCANCEL THIS MSG 282359 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.609833333333334,
+          54.6545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA53",
+      "properties": {
+        "call-sign": "JA53",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "53",
+        "msg-date": "2023-04-20T12:15:00+02:00",
+        "message": "ZCZC JA53\n201015 UTC APR\nKALININGRAD NAV WARNING 201/23\nSOUTHEASTERN BALTIC\n1. SHIPS EXERCISES 24 THRU 29 APR 0500 TO 2100 UTC\nIN AREA TEMPORARILY DANGEROUS TO SHIPPING BR-117\n55-54.0N 019-03.0E 55-30.0N 020-15.0E\n55-04.0N 020-15.0E 54-57.5N 020-06.0E\n54-57.5N 019-55.0E 54-50.0N 019-50.0E\n54-50.0N 019-25.0E\n2. CANCEL THIS MESSAGE 292200 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.05,
+              55.9
+            ],
+            [
+              20.25,
+              55.5
+            ],
+            [
+              20.25,
+              55.06666666666667
+            ],
+            [
+              20.1,
+              54.958333333333336
+            ],
+            [
+              19.916666666666668,
+              54.958333333333336
+            ],
+            [
+              19.833333333333332,
+              54.833333333333336
+            ],
+            [
+              19.416666666666668,
+              54.833333333333336
+            ],
+            [
+              19.05,
+              55.9
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA70",
+      "properties": {
+        "call-sign": "JA70",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "70",
+        "msg-date": "2023-04-20T12:10:00+02:00",
+        "message": "ZCZC JA70\n201010 UTC APR\nKALININGRAD NAV WARN 116/23\nEASTERN GULF OF FINLAND\n1. SHIPS EXERCISES 24 THRU 29 APR 0500 TO 2100 UTC\nIN AREA TEMPORARILY DANGEROUS TO SHIPPING\n60-00.5N 027-16.5E 60-05.4N 027-34.0E\n59-53.0N 027-48.0E 59-48.0N 027-31.0E\n2. CANCEL THIS MESSAGE 292200 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              27.275,
+              60.00833333333333
+            ],
+            [
+              27.566666666666666,
+              60.09
+            ],
+            [
+              27.8,
+              59.88333333333333
+            ],
+            [
+              27.516666666666666,
+              59.8
+            ],
+            [
+              27.275,
+              60.00833333333333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA75",
+      "properties": {
+        "call-sign": "JA75",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "75",
+        "msg-date": "2023-04-28T18:12:00+02:00",
+        "message": "ZCZC JA75\n281612 UTC APR\n\nPOLISH NAV WARN 087/23\n\nSOUTHERN BALTIC.\nDANGEROUS OBJECT SPOTTED ADRIFT IN VICINITY OF PSN\n55-35.1N 017-40.6E.\n2023-04-28, 11:00\nVESSELS EXE_CISE EXT_E_E CAUTION\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.676666666666666,
+          55.585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA50",
+      "properties": {
+        "call-sign": "FA50",
+        "station": "F",
+        "msg-type": "A",
+        "msg-no": "50",
+        "msg-date": "2023-04-11T18:51:00+02:00",
+        "message": "ZCZC FA50\n111651 UTC APR\nPETERSBURG NAV WARN 100/23\nEASTERN GULF OF FINLAND.\nLIGHT BUOY SAFE WATER NO 1\n60-25.8N 028-12.9E  MISSING.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          28.215,
+          60.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA54",
+      "properties": {
+        "call-sign": "JA54",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "54",
+        "msg-date": "2023-04-20T12:20:00+02:00",
+        "message": "ZCZC JA54\n201020 UTC APR\nKALININGRAD NAV WARN 202/23\nSOUTHEASTERN BALTIC\n1. SHIPS EXERCISES 24 THRU 29 APR 0500 TO 2100 UTC\nIN AREA TEMPORARILY DANGEROUS TO SHIPPING\n55-32.0N 019-01.6E 55-32.0N 019-50.0E\n55-03.0N 019-35.0E 54-46.4N 019-35.0E\n54-50.3N 019-20.3E 55-11.5N 019-09.2E\n55-20.0N 019-04.6E\n2. CANCEL THIS MESSAGE 292200 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.026666666666667,
+              55.53333333333333
+            ],
+            [
+              19.833333333333332,
+              55.53333333333333
+            ],
+            [
+              19.583333333333332,
+              55.05
+            ],
+            [
+              19.583333333333332,
+              54.77333333333333
+            ],
+            [
+              19.338333333333335,
+              54.83833333333333
+            ],
+            [
+              19.153333333333332,
+              55.19166666666667
+            ],
+            [
+              19.076666666666668,
+              55.333333333333336
+            ],
+            [
+              19.026666666666667,
+              55.53333333333333
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "IA74",
+      "properties": {
+        "call-sign": "IA74",
+        "station": "I",
+        "msg-type": "A",
+        "msg-no": "74",
+        "msg-date": "2023-04-26T11:21:00+02:00",
+        "message": "ZCZC IA74\n260921 UTC APR\n\nDANISH NAV WARN 179/23\n\nGREAT BELT.\nTSS BETWEEN KOR_OER AND SPROGOE.\nSAFE WATER LIGHT BUOY NO 2_\n55-21.8N_011-02.1E\nOFF STATION.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          11.035,
+          55.36333333333334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA62",
+      "properties": {
+        "call-sign": "JA62",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "62",
+        "msg-date": "2023-04-21T14:08:00+02:00",
+        "message": "ZCZC JA62\n211208 UTC APR\nKAL NAV WARN 212/23\nSOUTHEASTERN BALTIC\nFROM 211800 THRU 282000 UTC APR\nTHE RIGHT OF INNOCENT PASSAGE IS SUSPENDED THROUGH THE TERRITORIAL SEA\nOF RUSSIAN FEDERATION FOR FOREIGN WARSHIPS AND OTHER\nSTATE-OWNED SHIPS OPERATING FOR NON-COMMERCIAL PURPOSES\nIN AREA\n54-27,28N 019-38,30E\n54-36,15N 019-24,22E\n55-23,03N 020-39,21E\n55-16,52N 020-57,20E\n54-27,28N 019-38,30E\nCANCEL 282100 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              19.638333333333332,
+              54.45466666666667
+            ],
+            [
+              19.403666666666666,
+              54.6025
+            ],
+            [
+              20.6535,
+              55.383833333333335
+            ],
+            [
+              20.953333333333333,
+              55.275333333333336
+            ],
+            [
+              19.638333333333332,
+              54.45466666666667
+            ],
+            [
+              19.638333333333332,
+              54.45466666666667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA67",
+      "properties": {
+        "call-sign": "FA67",
+        "station": "F",
+        "msg-type": "A",
+        "msg-no": "67",
+        "msg-date": "2023-04-20T12:10:00+02:00",
+        "message": "0ZCZC FA67\n201010 UTC APR\nPET NAV WARN 114/23\nEASTERN GULF OF FINLAND.\nSHIPS EXERCISES\n24 THRU 29 APR 0500 TO 2100 UTC IN AREA\nKR-107:\n60-10.3N 028-45.7E\n60-10.3N 028-54.6E\n60-04.0N 028-54.6E\n60-04.0N 028-34.0E\n60-07.0N 028-34.0E\nCANCEL 292200 UTC AP_.\nNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              28.761666666666667,
+              60.17166666666667
+            ],
+            [
+              28.91,
+              60.17166666666667
+            ],
+            [
+              28.91,
+              60.06666666666667
+            ],
+            [
+              28.566666666666666,
+              60.06666666666667
+            ],
+            [
+              28.566666666666666,
+              60.11666666666667
+            ],
+            [
+              28.761666666666667,
+              60.17166666666667
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PA30",
+      "properties": {
+        "call-sign": "PA30",
+        "station": "P",
+        "msg-type": "A",
+        "msg-no": "30",
+        "msg-date": "2023-05-05T18:40:25.569598+02:00",
+        "message": "ZCZC PA30\n\nNETHERLANDS COASTGUARD\n\nNAVIGATIONAL WARNING NR. 30 231049 UTC APR\n\nTSS MAAS NORTHWEST/ MAAS WEST INNER\n\nSURVEY OPERATIONS BY IEVOLI COBALT C/S IBOK\n\nBETWEEN 52-13N 003-30E AND  52-04N 003-31E\n\nNAVWARNING NR. 27 2215131 UTC APR CANCELLED.\n\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            3.5,
+            52.21666666666667
+          ],
+          [
+            3.5166666666666666,
+            52.06666666666667
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA22",
+      "properties": {
+        "call-sign": "JA22",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "22",
+        "msg-date": "2023-04-05T13:00:00+02:00",
+        "message": "ZCZC JA22\n051100 UTC APR\nGERMAN NAV WARN 148/23\nSOUTHERN BALTIC. SOUTH EAST OF WINDPARK 'BALTIC EAGLE'\nMEASURING INSTRUMENTS ESTABLISHED IN\n54-44,2N 014-02,9E AS WELL AS\n54-50,6N 014-01,3E\nEACH POSITION MARKED BY YELLOW SPAR LIGHTBUOY, AND YELLOW CROSS AS TOPMARK.\nFL (5) Y 20S.\nWIDE BERTH REQUESTED\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            14.048333333333334,
+            54.736666666666665
+          ],
+          [
+            14.021666666666667,
+            54.843333333333334
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PA11",
+      "properties": {
+        "call-sign": "PA11",
+        "station": "P",
+        "msg-type": "A",
+        "msg-no": "11",
+        "msg-date": "2023-05-05T18:40:25.569962+02:00",
+        "message": "ZCZC PA11\n\nNETHERLANDS COASTGUARD\n\nNAVIGATIONAL WARNING NR. 11 041435 UTC APR\n\nNORTH SEA\n\nSEMI SUBSEA MEASURING EQUIPMENT ESTABLISHED MARKED WITH\n\nEAST CARDINAL LIGHTBUOY WOZEP Q(3)10S\n\n53-13.5N 004-41.7E\n\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.695,
+          53.225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA56",
+      "properties": {
+        "call-sign": "JA56",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "56",
+        "msg-date": "2023-04-25T05:00:00+02:00",
+        "message": "ZCZC JA56\n250300 UTC APR\nPOLISH NAV WARN 082/23\nSOUTHERN BALTIC. POLISH COAST\nDUE TO MILITARY EXERCISES AREA BOUNDED BY POSITIONS:\n1. 54-35.4N 016-08.8E\n2. 54-50.3N 015-56.4E\n3. 54-59.3N 016-39.0E\n4. 54-47.0N 016-46.4E\n5. 54-40.8N 016-17.0E\nIS TEMPORAILY DANGEROUS FOR SHIPPING AND FISHERY:\n25-28 APR,  03:00 TO 2023-04-25 23:59\nTIME IN UTC\nCAUTION ADVISED\nCANCEL THIS MSG 282359 UTC APR\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              16.14666666666667,
+              54.59
+            ],
+            [
+              15.94,
+              54.83833333333333
+            ],
+            [
+              16.65,
+              54.98833333333333
+            ],
+            [
+              16.773333333333333,
+              54.78333333333333
+            ],
+            [
+              16.283333333333335,
+              54.68
+            ],
+            [
+              16.14666666666667,
+              54.59
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA80",
+      "properties": {
+        "call-sign": "JA80",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "80",
+        "msg-date": "2023-04-29T13:30:00+02:00",
+        "message": "ZCZC JA80\n291130 UTC APR\nGERMA_ NAV WARN_170/23.\nSOUTHERN ALTIC. EAST O_ RUDGEN.\nSEVERAL AMMUNITION FOUND IN AREA ABOUT PSN:\n54-36.6N 013-49.8E_\nSHIPPING IS REQUESTED TO KEEP CLEAR OF THIS WSN.\nANCHORING AND FISHING PROHIBITED.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          13.83,
+          54.61
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA79",
+      "properties": {
+        "call-sign": "JA79",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "79",
+        "msg-date": "2023-05-05T18:40:25.570423+02:00",
+        "message": "ZCZC JA79\n290147 U_C APR\n_WED_SH NAV WARN 058/23\nTHE SOUND. FAIRWAY LO LANDSKRONA\nLEADING LIGHT 'LANDSKRONA SODRA NEDRE' IS UNLIT.\nPSN 55-52.0N 012-49.0E.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.816666666666666,
+          55.86666666666667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA69",
+      "properties": {
+        "call-sign": "FA69",
+        "station": "F",
+        "msg-type": "A",
+        "msg-no": "69",
+        "msg-date": "2023-04-20T12:10:00+02:00",
+        "message": "ZCZC FA69\n201010 UTC APR\nPET NAV WARN 116/23\nEASTERN GULF O_ FINLAND.\nSHIPS EXERCISES\n24 THRU 29 APR 0500 TO 2100 UTC IN A43-:\n60-00.5N 027-16.5E\n60-05.4N 027-34.0E\n59-53.0N 027-48.0E\n59-48.0N 027-31.0E\nCANCEL 292200 UTC APR.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            27.275,
+            60.00833333333333
+          ],
+          [
+            27.566666666666666,
+            60.09
+          ],
+          [
+            27.8,
+            59.88333333333333
+          ],
+          [
+            27.516666666666666,
+            59.8
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA35",
+      "properties": {
+        "call-sign": "JA35",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "35",
+        "msg-date": "2023-04-13T10:59:00+02:00",
+        "message": "ZCZC JA35\n130859 UTC APR\n\nGERMAN NAV WARN 154/23\n\nSOUTHERN BALTIC. EAST OF RUEGEN.\nUNDERWATER OPERATION IN PROGRESS BY\nMV 'KAMARA', CS '9HA4953'\nIN AREA BETWEEN\n54-52,9N 014-00,0E AND\n54-17,1N 013-47,4E\nRESTRICTED MANOEVRABILITY DURING ROV OPERATIONS.\nBERTH OF 500 METRES REQUESTED.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [
+            14.0,
+            54.88166666666667
+          ],
+          [
+            13.79,
+            54.285
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA30",
+      "properties": {
+        "call-sign": "JA30",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "30",
+        "msg-date": "2023-04-08T16:55:00+02:00",
+        "message": "ZCZC JA30\n081455 UTC APR\nGERMAN NAV WARN 151/23\nSOUTHERN BALTIC. ARKONA BECKEN.\nAMMUNITION FOUND IN PSN: 54-52.6N 014-00.5E.\nSHIPPING IS REQUESTED TO KEEP CLEAR OF THIS PSN.\nANCHORING AND FISHING PROHIBITED\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.008333333333333,
+          54.876666666666665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "SA82",
+      "properties": {
+        "call-sign": "SA82",
+        "station": "S",
+        "msg-type": "A",
+        "msg-no": "82",
+        "msg-date": "2023-04-10T21:00:00+02:00",
+        "message": "ZCZC SA82\nNCC-HAMBURG\n101900 UTC APR 23\nNAV. WARN. NO. 152\nWHITE BANK.\nSUPERBUOY 'NSB II'  RELOCATED TO 55-00N 006-30E.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.5,
+          55.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA59",
+      "properties": {
+        "call-sign": "JA59",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "59",
+        "msg-date": "2023-04-25T05:00:00+02:00",
+        "message": "ZCZC JA59\n250300 UTC APR\nPOLISH NAV WARN 076/2023\nSOUTHERN BALTIC. POLISH COAST\nDUE TO MILITARY EXERCISES ZONE IS CLOSED FOR SHIPPING AND FISHERY:\nS-6B CENTERED 54-34.57N 016-20.85E\nON 2023-04-25 FROM 03:00 TO 23:59\nON 2023-04-26 FROM 03:00 TO 23:59\nON 2023-04-27 FROM 03:00 TO 23:59\nON 2023-04-28 FROM 03:00 TO 23:59\nTIME IN UTC.\nZONE IS CLOSED\nCANCEL THIS MSG 282359 UTC APR\n\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3475,
+          54.576166666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "FA23",
+      "properties": {
+        "call-sign": "FA23",
+        "station": "F",
+        "msg-type": "A",
+        "msg-no": "23",
+        "msg-date": "2023-03-17T18:22:00+01:00",
+        "message": "ZCZC FA23\n171722 UTC MAR\nPETERSBURG NAV WARN 073/23\nGULF OF FINLAND,\nGOGLAND ISLAND:\nYUZHNYY GOGLANDSKIY LIGHTHOUSE\n60-00.7N 027-00.6E  UNLIT.\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.01,
+          60.01166666666666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "JA64",
+      "properties": {
+        "call-sign": "JA64",
+        "station": "J",
+        "msg-type": "A",
+        "msg-no": "64",
+        "msg-date": "2023-04-23T20:30:00+02:00",
+        "message": "ZCZC JA64\n231830 UTC APR\nGERMAN NAV WARN 162/23\nWESTERN BALTIC. DARSS\n'DARSSER ORT' LIGHTHOUSE\n54-28.0N 012-30.0E UNLIT\nNNNN\n"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.5,
+          54.46666666666667
+        ]
+      }
+    }
+  ]
+}
