@@ -12,7 +12,7 @@ API mode
 --------
 Clone the repository to a local folder and start ./install.sh. This will load the necessary Python modules and create a service that establishes the API. The file `config.txt` contains the message sources (local folders or urls).
 
-	svc
+	srv
 	└── navtex-parser
 	    ├── Navtex.service
 	    └── src

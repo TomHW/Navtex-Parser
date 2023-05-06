@@ -9,7 +9,7 @@ User=pi
 Group=pi
 DynamicUser=true
 
-WorkingDirectory=/svc/navtex-parser/src
+WorkingDirectory=/srv/navtex-parser/src
 PrivateTmp=true
 
 #EnvironmentFile=/srv/Navtex.Msg.com/secrets/env

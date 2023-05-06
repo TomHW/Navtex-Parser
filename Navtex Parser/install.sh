@@ -3,7 +3,7 @@ if [ "$EUID" -ne 0 ]
   then echo "Please run as root (i.e. sudo)"
   exit
 fi
-TARGETDIR=/svc/navtex-parser
+TARGETDIR=/srv/navtex-parser
 TARGETSRC=${TARGETDIR}/src/Navtex
 mkdir -p $TARGETSRC
 cp src/Navtex/*.py ${TARGETSRC}/
