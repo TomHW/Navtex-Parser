@@ -5,7 +5,7 @@ if [ "$EUID" -ne 0 ]
 fi
 TARGETDIR=/svc/navtex-parser
 TARGETSRC=${TARGETDIR}/src/Navtex
-mkdir -p $TARGETDIR
+mkdir -p $TARGETSRC
 cp src/Navtex/*.py ${TARGETSRC}/
 cp Navtex.service ${TARGETDIR}/
 pip install uvicorn
